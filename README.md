@@ -4,10 +4,10 @@ The website yukino.ai
 
 ## Current task
 
-- Nav bar
+- Dark theme
 
 ## Next tasks
 
-- Dark theme
+- Nav bar
 - Nicer imports
 - Favicon
