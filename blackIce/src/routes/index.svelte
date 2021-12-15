@@ -1,10 +1,9 @@
-<div class="bgColor set-height" />
 <div class="font-size">Hi</div>
 
 <style>
-  .bgColor {
-    background-color: grey;
-  }
+  /* .bgColor {
+    background-color: none;
+  } */
 
   .font-size {
     font-size: 50px;
