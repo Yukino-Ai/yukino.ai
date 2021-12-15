@@ -9,8 +9,12 @@ The website yukino.ai
 ## Next tasks
 
 - Nav bar gifs
-- Light-theme
+- `Bio` section
+- `Coding` section
+- `Math` section
 - Favicon
+- Computer modern font
+- Light-theme
 
 ## Completed tasks
 
