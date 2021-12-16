@@ -8,6 +8,7 @@ The website yukino.ai
 
 ## Next tasks
 
+- Endorsements API
 - Nav bar gifs
 - `Bio` section
 - `Coding` section
