@@ -3,6 +3,7 @@
 ## Content
 
 - Make tentative statistics syllabus
+  - Free resources when possible
 
 ## Development
 
