@@ -11,35 +11,40 @@ Eventual personal website hosting videos similar to [calmcode.io](https://calmco
 
 ## Tentative tech-stack
 
-- videos hosted on [Vimeo](https://vimeo.com/) to avoid ads
-- front-end: [SvelteKit](https://kit.svelte.dev/)
-- CSS: [UnoCSS](https://github.com/unocss/unocss)
-- backend: [Nest.js](https://docs.nestjs.com/) configured with [fastify](https://github.com/fastify/fastify)
-- testing: [Vitest](https://vitest.dev/)
-- hosting: [linode](https://www.linode.com/)
-- analyics: 🤔 not sure
+Philosophy: as simple as possible
+
+### SvelteKit
+
+[🌏 Website](https://kit.svelte.dev/)
+
+- SSR/static front-end
+- Declarative components
+- Routing
+
+### Self-hosted video "ETL"/"ELT"
+
+- [Vimeo is kind of sus](https://twitter.com/JennyENicholson/status/1493406251408969728?s=20&t=6BaLVBKiTKmcJHtmyNh5SQ)
+- Data engineering portfolio
 
 ## Tentative categories:
 
-### Command-line/software bullshit
+### Learning statistics (in public)
 
-- `git` with multiple accounts
-  - windows + WSL 2
+[Practical Statistics for Data Scientists | Peter Bruce | Andrew Bruce | Peter Gedeck](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X/)
 
-### Papers
+- Data science motivation
 
-- [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) | [C. E. Shannon](https://en.wikipedia.org/wiki/Claude_Shannon)
-- [Graphs in Statistical Analysis](https://www.sjsu.edu/faculty/gerstman/StatPrimer/anscombe1973.pdf) | [F. J. Anscombe](https://en.wikipedia.org/wiki/Frank_Anscombe)
-- [50 years of Data Science](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf) | [David Donoho](https://web.stanford.edu/dept/statistics/cgi-bin/donoho/)
-- [The Future of Data Analysis](https://web.stanford.edu/~gavish/documents/Tukey_the_future_of_data_analysis.pdf) | [John Tukey](https://en.wikipedia.org/wiki/John_Tukey)
-- [Laplace’s Theories of Cognitive Illusions, Heuristics and Biases](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3149224) | [Joshua B. Miller](https://www.joshua-benjamin-miller.com/) and [Andrew Gelman](http://www.stat.columbia.edu/~gelman/)
+[Mathematical Statistics | Jun Shaod](https://www.amazon.com/Mathematical-Statistics-Springer-Texts-dp-1441929789/dp/1441929789/)
 
-### Blg posts
+- Main statistical text
 
-- [275A, Notes 0: Foundations of probability theory](https://terrytao.wordpress.com/2015/09/29/275a-notes-0-foundations-of-probability-theory/) | [Terence Tao](https://terrytao.wordpress.com/about/)
+[275A, Notes 0: Foundations of probability theory | Terence Tao](https://terrytao.wordpress.com/2015/09/29/275a-notes-0-foundations-of-probability-theory/)
+
+- Main probability reference
 
 ## OBS views
 
 - Chalkboard + animated gif avatar in corner
   - Different hats on avatar for video series
 - Jupyer notebook on VS code
+- R with R Studio or some alternative to R Studio
