@@ -2,7 +2,7 @@
 
 ## Content
 
-- Make tentative statistics syllabus
+- Make tentative statistics and probability syllabus
   - Free resources when possible
 
 ## Development
